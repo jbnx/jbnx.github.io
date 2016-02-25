@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://jbnx.github.io
+title: JBNX
+tagline: coding/gaming/teching
+description: JBNX BLOG
+paginate: 5
